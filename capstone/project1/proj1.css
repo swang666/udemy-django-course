@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #195e83;
+    text-align: center;
+    color: white;
+    border: 50px solid lightblue;
+    margin: 0px;
+}
+
+p{
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+}
+
+#submit{
+    background-color: rgb(235, 160, 49);
+    margin-bottom: 30px;
+    border: 2px solid white;
+    border-radius: 25px;
+    height: 60px;
+}
